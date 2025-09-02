@@ -1,0 +1,12 @@
+## Kick Website
+kick.com
+www.kick.com
+static.kick.com
+api.kick.com
+edge.kick.com
+player.kick.com
+## CDN de Kick
+kick.com.cdn.cloudflare.net
+kick.com.edgekey.net
+kick.com.edgesuite.net
+kick.com.akamaized.net
