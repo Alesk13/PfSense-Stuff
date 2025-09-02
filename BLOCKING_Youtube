@@ -1,0 +1,39 @@
+# Title: Alex - Personnal Youtube Blocking Hosts
+#
+# This hosts file is a personnal blocking Youtube access for children
+# It was sourced by ChatGPT and personnal investigation
+#
+# Date: 16 August 2025 14:23 (UTC)
+#
+# Project home page: https://github.com/Alesk13/ExternLoc/edit/main/Youtube_Blocking.txt
+# PInitial release: https://github.com/Alesk13/ExternLoc/edit/main/Youtube_Blocking.Alex
+#
+# ===============================================================
+
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 youtu.be
+127.0.0.1 www.youtu.be
+127.0.0.1 ytimg.com
+127.0.0.1 i.ytimg.com
+127.0.0.1 s.ytimg.com
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 googlevideo.com
+127.0.0.1 www.googlevideo.com
+127.0.0.1 redirector.googlevideo.com
+127.0.0.1 youtubei.googleapis.com
+127.0.0.1 youtube.googleapis.com
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 youtubeembeddedplayer.googleapis.com
+127.0.0.1 youtube-ui.l.google.com
+127.0.0.1 music.youtube.com
+127.0.0.1 ytimg.l.google.com
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
