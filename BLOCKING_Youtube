@@ -10,27 +10,27 @@
 #
 # ===============================================================
 
-127.0.0.1 youtube.com
-127.0.0.1 www.youtube.com
-127.0.0.1 m.youtube.com
-127.0.0.1 youtu.be
-127.0.0.1 www.youtu.be
-127.0.0.1 ytimg.com
-127.0.0.1 i.ytimg.com
-127.0.0.1 s.ytimg.com
-127.0.0.1 yt3.ggpht.com
-127.0.0.1 googlevideo.com
-127.0.0.1 www.googlevideo.com
-127.0.0.1 redirector.googlevideo.com
-127.0.0.1 youtubei.googleapis.com
-127.0.0.1 youtube.googleapis.com
-127.0.0.1 youtube-nocookie.com
-127.0.0.1 www.youtube-nocookie.com
-127.0.0.1 youtubeembeddedplayer.googleapis.com
-127.0.0.1 www.youtubeembeddedplayer.googleapis.com
-127.0.0.1 youtube-ui.l.google.com
-127.0.0.1 music.youtube.com
-127.0.0.1 ytimg.l.google.com
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+www.youtu.be
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
+googlevideo.com
+www.googlevideo.com
+redirector.googlevideo.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtube-nocookie.com
+www.youtube-nocookie.com
+youtubeembeddedplayer.googleapis.com
+www.youtubeembeddedplayer.googleapis.com
+youtube-ui.l.google.com
+music.youtube.com
+ytimg.l.google.com
 
 # blacklist
 #
